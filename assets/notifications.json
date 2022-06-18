@@ -1,0 +1,180 @@
+{
+    "notifications": [
+        {
+            "name": "Nguyen", 
+            "profilePic": "https://soundcloud.com/justinbieber-music", 
+            "content": " liked your video. ", 
+            "postImage": "https://instagram.fkbl4-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/241314953_1514997702184050_3983656462351007940_n.jpg?_nc_ht=instagram.fkbl4-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=sv5LCXQzXGkAX9iMz_x&edm=AL4D0a4BAAAA&ccb=7-4&oh=1ef9dc54dbf44deb7956ffb98d6300e5&oe=61403D5F&_nc_sid=712cc3", 
+            "timeAgo": "20s", 
+            "hasStory" : false
+        },
+        {
+            "name":  "Huu", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "1m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "Loc", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://instagram.fkbl4-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/241480993_564787968302949_6195733300593016483_n.jpg?_nc_ht=instagram.fkbl4-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=4ZjT9hUKHLUAX-TaULu&edm=AL4D0a4BAAAA&ccb=7-4&oh=3df371c91bd18db0d9172c42a797f265&oe=613FB38B&_nc_sid=712cc3",
+            "timeAgo":  "1m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "msssv", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://instagram.fkbl4-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/241480993_564787968302949_6195733300593016483_n.jpg?_nc_ht=instagram.fkbl4-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=4ZjT9hUKHLUAX-TaULu&edm=AL4D0a4BAAAA&ccb=7-4&oh=3df371c91bd18db0d9172c42a797f265&oe=613FB38B&_nc_sid=712cc3",
+            "timeAgo":  "1m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "18DH1110637", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " liked your video. ", 
+            "postImage":  "https://instagram.fkbl4-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/241314953_1514997702184050_3983656462351007940_n.jpg?_nc_ht=instagram.fkbl4-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=sv5LCXQzXGkAX9iMz_x&edm=AL4D0a4BAAAA&ccb=7-4&oh=1ef9dc54dbf44deb7956ffb98d6300e5&oe=61403D5F&_nc_sid=712cc3", 
+            "timeAgo":  "2m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "Flutter", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://instagram.fkbl4-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/241480993_564787968302949_6195733300593016483_n.jpg?_nc_ht=instagram.fkbl4-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=4ZjT9hUKHLUAX-TaULu&edm=AL4D0a4BAAAA&ccb=7-4&oh=3df371c91bd18db0d9172c42a797f265&oe=613FB38B&_nc_sid=712cc3",
+            "timeAgo":  "3m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "Nguyen", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "3m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "Duc", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "3m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "thangdontcry", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "4m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "Thang", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "4m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "MSSV", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "4m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "18DH110704", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " liked your video. ", 
+            "postImage":  "https://instagram.fkbl4-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/241314953_1514997702184050_3983656462351007940_n.jpg?_nc_ht=instagram.fkbl4-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=sv5LCXQzXGkAX9iMz_x&edm=AL4D0a4BAAAA&ccb=7-4&oh=1ef9dc54dbf44deb7956ffb98d6300e5&oe=61403D5F&_nc_sid=712cc3", 
+            "timeAgo":  "20s", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "Flutter", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "1m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "Giang", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://instagram.fkbl4-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/241480993_564787968302949_6195733300593016483_n.jpg?_nc_ht=instagram.fkbl4-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=4ZjT9hUKHLUAX-TaULu&edm=AL4D0a4BAAAA&ccb=7-4&oh=3df371c91bd18db0d9172c42a797f265&oe=613FB38B&_nc_sid=712cc3",
+            "timeAgo":  "1m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "Viens", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://instagram.fkbl4-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/241480993_564787968302949_6195733300593016483_n.jpg?_nc_ht=instagram.fkbl4-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=4ZjT9hUKHLUAX-TaULu&edm=AL4D0a4BAAAA&ccb=7-4&oh=3df371c91bd18db0d9172c42a797f265&oe=613FB38B&_nc_sid=712cc3",
+            "timeAgo":  "1m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "Justin", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " liked your video. ", 
+            "postImage":  "https://instagram.fkbl4-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/241314953_1514997702184050_3983656462351007940_n.jpg?_nc_ht=instagram.fkbl4-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=sv5LCXQzXGkAX9iMz_x&edm=AL4D0a4BAAAA&ccb=7-4&oh=1ef9dc54dbf44deb7956ffb98d6300e5&oe=61403D5F&_nc_sid=712cc3", 
+            "timeAgo":  "2m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "justin bieber", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://instagram.fkbl4-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/241480993_564787968302949_6195733300593016483_n.jpg?_nc_ht=instagram.fkbl4-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=4ZjT9hUKHLUAX-TaULu&edm=AL4D0a4BAAAA&ccb=7-4&oh=3df371c91bd18db0d9172c42a797f265&oe=613FB38B&_nc_sid=712cc3",
+            "timeAgo":  "3m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "Manchester United", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "3m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "Alex.Furgie", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "3m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "angiangquetoi", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "4m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "doancuoiki", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "4m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "hihi", 
+            "profilePic":  "https://soundcloud.com/justinbieber-music", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "4m", 
+            "hasStory" :  false
+        }
+    ]    
+}
